@@ -1,6 +1,5 @@
 [![](https://img.shields.io/npm/v/locomotive-scroll)](https://www.npmjs.com/package/locomotive-scroll)
 [![](https://img.shields.io/npm/dm/locomotive-scroll)](https://www.npmjs.com/package/locomotive-scroll)
-
 > 🚀 **Locomotive Scroll v5 Beta Release**
 >
 > Try out the beta version of Locomotive Scroll v5!
